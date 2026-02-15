@@ -9,7 +9,7 @@ Supplementary materials for *The 30-Days Habit Shift* by youngjoon Ahn.
 The mindmap provides a visual overview of all key concepts covered in the book.
 Download the full-resolution version below for the best viewing experience.
 
-- [Download Mindmap (Light)](resources/mindmap_light.png)
+- [Download Mindmap](resources/mindmap.jpg)
 
 > **Tip:** Click the link above, then click the **Download raw file** button
 > (↓ icon) on the top-right corner of the image preview to save the
